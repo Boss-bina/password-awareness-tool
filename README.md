@@ -1,21 +1,23 @@
-# Password Security Awareness Tool
+# 🔐 Password Security Awareness Tool
 
-This is a simple web-based password strength checker built for the 3MTT Knowledge Showcase under the General Learning category.
+A simple web-based password checker created as part of the 3MTT Knowledge Showcase under the General Learning category.
 
-## 🔐 Features
+## 🎬 Demo Video
+(https://www.loom.com/share/0d736eae8b46448db5ed5e1b57fc2d23?sid=698ee758-ca7a-4ac7-88d0-0a6d8df70783)
+
+## 🌍 Live Demo
+Try it here: (https://boss-bina.github.io/password-awareness-tool/)
+
+## 💡 Features
 - Real-time password strength feedback (Weak, Medium, Strong)
 - Actionable tips to improve password hygiene
-- Basic validation against common weak passwords
+- Warns against common weak passwords
 
-## 🚀 Live Demo
-[Click here to try the app](https://boss-bina.github.io/password-awareness-tool/)
-
-## 🧠 Goal
-To educate users on good password practices and promote cybersecurity awareness.
-
-## 👨‍💻 Built With
+## 👨‍💻 Tech Stack
 - HTML
 - CSS
 - JavaScript
 
-
+## 🚀 Purpose
+To raise awareness about password security and help users create stronger, safer credentials and avoid being vulnerable to cyberattacks.
+ Open source for learning and reuse.
